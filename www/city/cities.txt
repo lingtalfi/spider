@@ -1,0 +1,462 @@
+Abbeville
+Agde
+Agen
+Aix en Provence
+Aix les bains
+Ajaccio
+Albi
+Alençon
+Alfortville
+Alès
+Amiens
+Angers
+Anglet
+Angoulême
+Annecy
+Annemasse
+Annonay
+Anthony
+Antibes
+Argenteuil
+Arles
+Armentières
+Arras
+Asnières sur Seine
+Athis Mons
+Aubagnes
+Aubervilliers
+Auch
+Aulnay Sous bois
+Aurillac
+Auxerre
+Avignon
+Bagneux
+Bagnolet
+Baie Mahault
+Bastia
+Bayonne
+Beaune
+Beauvais
+Belfort
+Bergerac
+Besançon
+Bezons
+Biarritz
+Blagnac
+Blois
+Bobigny
+Bois Colombes
+Bondy
+Bordeaux
+Boulogne Billancourt
+Boulogne sur Mer
+Bourg en bresse
+Bourges
+Bourgoin Jallieu
+Brest
+Brive la Gaillarde
+Bron
+Bruay la Buisière
+Brunoy
+Brétigny sur Orge
+Bègles
+Béthune
+Béziers
+Cachan
+Caen
+Cagnes sur Mer
+Cahors
+Calais
+Caluire et Cuire
+Cambrai
+Cannes
+Capesterre Belle Eau
+Carcassonne
+Carpentras
+Castres
+Cavaillon
+Cayenne
+Cenon
+Cergy
+Chalon sur Saonne
+Chambéry
+Champ sur marne
+Champigny sur Marne
+Charenton le Pont
+Charleville Mézières
+Chartres
+Chatou
+Chaumont
+Chelles
+Cherbourg
+Choisy le Roi
+Cholet
+Châlons en Champagne
+Châteauroux
+Châtellerault
+Châtenay Malabry
+Châtillon
+Clamart
+Clermont Ferrand
+Clichy
+Clichy sous Bois
+Cognac
+Colmar
+Colombes
+Colomiers
+Comb la Ville
+Compiègne
+Concarneau
+Conflans Saint Honorine
+Corbeil Essonnes
+Cormeilles en Parisis
+Coudekerque Branche
+Courbevoie
+Cournon
+Creil
+Croix
+Créteil
+Dammarie les Lys
+Dax
+Denain
+Deuil la Barre
+Dieppe
+Dijon
+Dole
+Douai
+Draguignan
+Drancy
+Draveil
+Dreux
+Dunkerque
+Décines Charpieu
+Eaubonne
+Echirolles
+Elancourt
+Epernay
+Epinal
+Epinay sur Seine
+Ermont
+Etampes
+Evreux
+Evry
+Firminy
+Fleury les Aubrais
+Fontaine
+Fontenau sous bois
+Fontenay les Roses
+Forbach
+Fort de France
+Fougères
+Franconville
+Fresnes
+Frontignan
+Fréjus
+Fécamp
+Gagny
+Gap
+Gardanne
+Garges lès Gonesse
+Gennevilliers
+Gif sur Yvette
+Gonesse
+Goussainville
+Gradignan
+Grande Synthe
+Grasse
+Grenoble
+Grigny
+Guyancourt
+Guéret
+Hagueneau
+Hazebrouck
+Hem
+Herblay
+Houilles
+Hyères
+Hénin Beaumont
+Hérouville Saint Clair
+Illkirsh Graffenstaden
+Issy les Moulineaux
+Istres
+Ivry sur Seine
+Joué les Tous
+Kourou
+L'Häy les Roses
+La Celle Saint Cloud
+La Ciotat
+La Courneuve
+La Garde
+La Garenne Colombes
+La Madeleine
+La Possession
+La Roche Sur Yon
+La Rochelle
+La Seyne sur Mer
+La Teste de Buch
+La Valette du Var
+Lagny sur Marne
+Lambersat
+Lanester
+Laon
+Laval
+Le Blanc Mesnil
+Le Buscat
+Le Cannet
+Le Chesnay
+Le Creusot
+Le Gosier
+Le Grand Quevilly
+Le Havre
+Le Kremlin Bicétre
+Le Lamentin
+Le Mans
+Le Moule
+Le Mée sur Seine
+Le Perreux sur Marne
+Le Petit Quevilly
+Le Plessis Robinson
+Le Port
+Le Robert
+Le Tampon
+Lens
+Les Abymes
+Les Lilas
+Les Mureaux
+Les Pennes Mirabeau
+Les Ulis
+Levallois Perret
+Libourne
+Lille
+Limoges
+Lisieux
+Livry Gargan
+Liévin
+Lomme
+Longjumeau
+Loos
+Lorient
+Lormont
+Lunel
+Lunéville
+Lyon
+Macon
+Maisons Alfort
+Maisons Laffitte
+Malakoff
+Manosque
+Mantes la Jolie
+Mantes la Ville
+Marcq en Baroeul
+Marignane
+Marseille
+Martigues
+Massy
+Maubeuge
+Maurepas
+Meaux
+Melun
+Mende
+Menrton
+Merignac
+Metz
+Meudon
+Meyzieu
+Miliau
+Miramas
+Mons en Baroeul
+Mont Saint Aignan
+Mont de Marsan
+Montauban
+Montbélliard
+Montceau les Mines
+Montfermeil
+Montgeron
+Montigny Lès Metz
+Montigny les Bretonneux
+Montluçon
+Montmorency
+Montpellier
+Montreuil
+Montrouge
+Montélimar
+Morsang sur Orge
+Moulins
+Mulhouse
+Muret
+Nancy
+Nanterre
+Nantes
+Narbonne
+Neuilly sur Seine
+Neuily sur Marne
+Nevers
+Nice
+Nimes
+Niort
+Nogent sur Marne
+Nogent sur Oise
+Noisy le Grand
+Noisy le Sec
+Olivet
+Orange
+Orly
+Orléans
+Orvault
+Oullins
+Oyonnax
+Ozoir la Ferrière
+Palaiseau
+Pamiers
+Pantin
+Paris
+Pau
+Perpignan
+Pessac
+Petit Bourg
+Pierrefitte sur Seine
+Plaisir
+Pointe à Pitre
+Poissy
+Poitiers
+Pontault Combault
+Pontoise
+Puteaux
+Puy en Velay
+Périgueux
+Quimper
+Rambouillet
+Reims
+Rennes
+Rezé
+Rillieux la Pape
+Riom
+Ris Orangis
+Roanne
+Rochefort
+Rodez
+Roissy en Brie
+Romainville
+Roman sur Isère
+Rosny sous Bois
+Roubaix
+Rouen
+Rueil Malmaison
+Saint André
+Saint Anne
+Saint Benoit
+Saint Brieuc
+Saint Chamond
+Saint Cloud
+Saint Denis
+Saint Dizier
+Saint Dié
+Saint Etienne
+Saint Etienne du Rouvray
+Saint Genis Laval
+Saint Germain en Laye
+Saint Gratien
+Saint Herblain
+Saint Joseph
+Saint Laurent du Maroni
+Saint Laurent du Var
+Saint Leu
+Saint Lo
+Saint Louis
+Saint Malo
+Saint Martin
+Saint Martin d'Hères
+Saint Maur des Fossés
+Saint Michel sur Orge
+Saint Médard en Jalles
+Saint Nazaire
+Saint Ouen
+Saint Ouen l'Aumône
+Saint Paul
+Saint Pierre
+Saint Pol sur Mer
+Saint Priest
+Saint Quentin
+Saint Raphaël
+Saint Sébastien sur Loire
+Saint mandé
+Sainte Foy lès Lyon
+Sainte Geneviève des Bois
+Sainte Marie
+Saintes
+Salon de Provence
+Sannois
+Sarcelles
+Sarreguemines
+Sartrouville
+Saumur
+Savigny le Temple
+Savigny sur Orge
+Sceaux
+Schoelcher
+Sedan
+Sens
+Sevran
+Shiltighem
+Six Fours les Plages
+Soissons
+Sotteville lès Rouen
+Stains
+Strasbourg
+Sucy en Brie
+Suresnes
+Sète
+Sèvres
+Talence
+Tarbes
+Taverny
+Thiais
+Thionville
+Thonon les bains
+Torcy
+Toulon
+Toulouse
+Tourcoin
+Tournefeuille
+Tours
+Trappes
+Tremblay en France
+Troyes
+Valence
+Valenciennes
+Vallauris
+Vandoeuvre lès Nancy
+Vannes
+Vanves
+Vaux en Velin
+Verdun
+Vernon
+Versailles
+Vertou
+Vesoul
+Vichy
+Vienne
+Vierzon
+Vigneux sur Seine
+Villefranche sur Saone
+Villejuif
+Villemomble
+Villenave d'Ornon
+Villeneuve Saint Georges
+Villeneuve d'Ascq
+Villeneuve la Garenne
+Villeneuve sur Lot
+Villeparisis
+Villepinte
+Villeurbanne
+Villiers le Bel
+Villiers sur Marne
+Vincennes
+Viry Châtillon
+Vitrolles
+Vitry sur Seine
+Voiron
+Vélizy Villacoublay
+Vénissieux
+Wattrelos
+Yerres

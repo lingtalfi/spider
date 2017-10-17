@@ -1,0 +1,907 @@
+{
+  "pagination": {
+    "pageCount": 2,
+    "total": 39
+  },
+  "results": [
+    {
+      "id": 10402,
+      "name": "YogaTours - Be your dream",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/10402,yogatours-be-your-dream,studio-yoga-pilates,tours,37000,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/place/10402/searchPicture/1507296657848.jpeg",
+        "originalUrl": "place/10402/galerie/1498931895501.jpg",
+        "imageProcess": "big-01"
+      },
+      "type": {
+        "id": 11,
+        "name": "Studio Yoga / Pilates"
+      },
+      "address": {
+        "street": "Velpeau",
+        "zipCode": "37000",
+        "city": "Tours",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.4072049,
+        "lng": 0.6888688999999886
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 921,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 1279,
+      "name": "Les Océades Fitness Club Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/1279,les-oceades-fitness-club-tours,club-de-fitness,tours,37000,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "17 rue Franklin Roosevelt",
+        "zipCode": "37000",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.379024,
+        "lng": 0.679001
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1079,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 1286,
+      "name": "AquaGym Club Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/1286,aquagym-club-tours,club-de-fitness,tours,37000,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "33 rue Febvotte",
+        "zipCode": "37000",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.378764,
+        "lng": 0.691067
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1101,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 7290,
+      "name": "BNJ WARRIORS",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/7290,bnj-warriors,club-de-sport-art-martiaux-combat,saint-cyr-sur-loire,37000,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 6,
+        "name": "Club de sport art-martiaux / combat"
+      },
+      "address": {
+        "street": "26 boulevard Charles de Gaulle",
+        "zipCode": "37000",
+        "city": "SAINT CYR SUR LOIRE",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.4100428,
+        "lng": 0.6786317
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1135,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 5635,
+      "name": "Carré d'Ô Centre Aquatique Communautaire",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/5635,carre-d-o-centre-aquatique-communautaire,piscine-avec-activites-fitness,la-riche,37520,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 5,
+        "name": "Piscine avec activités fitness"
+      },
+      "address": {
+        "street": "Avenue du Prieuré",
+        "zipCode": "37520",
+        "city": "LA RICHE",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3816383,
+        "lng": 0.6572994
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1550,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 1289,
+      "name": "SuperGym",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/1289,supergym,club-de-fitness,tours,37100,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "80 rue Jemmapes",
+        "zipCode": "37100",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.421153,
+        "lng": 0.683686
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1866,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 5604,
+      "name": "Centre Aquatique du Lac",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/5604,centre-aquatique-du-lac,piscine-avec-activites-fitness,tours,37200,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 5,
+        "name": "Piscine avec activités fitness"
+      },
+      "address": {
+        "street": "275 avenue de Grammont",
+        "zipCode": "37200",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3676643,
+        "lng": 0.6978276
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 1926,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 8550,
+      "name": "Wake Up Form Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/8550,wake-up-form-tours,fitness-low-cost-club-de-musculation,saint-avertin,37550,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 2,
+        "name": "Fitness low cost / club de musculation"
+      },
+      "address": {
+        "street": "22 rue du Pont de l'Arche",
+        "zipCode": "37550",
+        "city": "SAINT AVERTIN",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.371461,
+        "lng": 0.71710680000001
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2174,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 5125,
+      "name": "BBC Fitness",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/5125,bbc-fitness,club-de-fitness,saint-avertin,37550,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "22 rue du Pont de l'Arche",
+        "zipCode": "37550",
+        "city": "SAINT AVERTIN",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3710923,
+        "lng": 0.717173
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2195,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 5221,
+      "name": "Le Club de Sport",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/5221,le-club-de-sport,club-de-fitness,saint-pierre-des-corps,37700,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/place/5221/searchPicture/1507289927056.jpeg",
+        "originalUrl": "picsData/salles/galeries/5221-11539-800x600.jpg",
+        "imageProcess": "big-01"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "1 rue du 11 Avril 1944",
+        "zipCode": "37700",
+        "city": "SAINT PIERRE DES CORPS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3820355074336,
+        "lng": 0.730183124542236
+      },
+      "description": {},
+      "pass": {
+        "key": "1Semaine",
+        "shortDescription": "Recevez un pass 1 semaine GRATUITE",
+        "description": "Profitez d'un Pass gratuit pour 1 semaine !",
+        "free": true
+      },
+      "reviews": {
+        "count": 15,
+        "avg": 4.733333333333333
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2279,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 8991,
+      "name": "Burpees",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/8991,burpees,club-de-fitness,tours,37100,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "47 avenue du Danemark",
+        "zipCode": "37100",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.4307137,
+        "lng": 0.6879026999999951
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2529,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 7923,
+      "name": "LE FIVE Foot en salle",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/7923,le-five-foot-en-salle,salle-de-gym-bien-etre,tours,37100,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 4,
+        "name": "Salle de gym / bien être"
+      },
+      "address": {
+        "street": "15 avenue du Danemark",
+        "zipCode": "37100",
+        "city": "TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.4325179,
+        "lng": 0.692762399999992
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2675,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 1292,
+      "name": "Les Océades St Cyr sur Loire",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/1292,les-oceades-st-cyr-sur-loire,club-de-fitness,saint-cyr-sur-loire,37540,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "1 avenue Pierre Gilles de Gennes",
+        "zipCode": "37540",
+        "city": "SAINT CYR SUR LOIRE",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.431837,
+        "lng": 0.666996
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 2733,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 4777,
+      "name": "Les Océades Joué Lès Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/4777,les-oceades-joue-les-tours,piscine-avec-activites-fitness,joue-les-tours,37300,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 5,
+        "name": "Piscine avec activités fitness"
+      },
+      "address": {
+        "street": "190 boulevard de Chinon",
+        "zipCode": "37300",
+        "city": "JOUÉ LÈS TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3508031516963,
+        "lng": 0.677933692932129
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3010,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 5900,
+      "name": "Form'A Domicile",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/5900,form-a-domicile,coach-sportif,joue-les-tours,37300,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 8,
+        "name": "Coach sportif"
+      },
+      "address": {
+        "street": "15 rue des Ribains",
+        "zipCode": "37300",
+        "city": "JOUÉ LèS TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3535667,
+        "lng": 0.6585223
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3060,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 1535,
+      "name": "Femmes en Forme Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/1535,femmes-en-forme-tours,salle-de-fitness-100-femmes,chambray-les-tours,37170,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 3,
+        "name": "Salle de fitness 100% femmes"
+      },
+      "address": {
+        "street": "208 rue de la Sagerie",
+        "zipCode": "37170",
+        "city": "CHAMBRAY LES TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3485889,
+        "lng": 0.7048427
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3281,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 6762,
+      "name": "Beauregard Fitness",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/6762,beauregard-fitness,salle-de-gym-bien-etre,rochecorbon,37210,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 4,
+        "name": "Salle de gym / bien être"
+      },
+      "address": {
+        "street": "Parc de Beauregard",
+        "zipCode": "37210",
+        "city": "ROCHECORBON",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.414169,
+        "lng": 0.754852
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3552,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 10236,
+      "name": "Centre Halles Gym Chambray",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/10236,centre-halles-gym-chambray,club-de-fitness,chambray-les-tours,31170,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/null"
+      },
+      "type": {
+        "id": 1,
+        "name": "Club de fitness"
+      },
+      "address": {
+        "street": "40 avenue de la République",
+        "zipCode": "31170",
+        "city": "CHAMBRAY LES TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3450176,
+        "lng": 0.7111055000000306
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3607,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    },
+    {
+      "id": 4650,
+      "name": "Urban GYM Tours",
+      "compte": "1",
+      "isSubscribed": false,
+      "urls": {
+        "long": "/salle/4650,urban-gym-tours,fitness-low-cost-club-de-musculation,chambray-les-tours,37170,fr"
+      },
+      "searchPicture": {
+        "url": "https://datas.masalledesport.com/prod/place/4650/searchPicture/1507290592224.jpeg",
+        "originalUrl": "picsData/salles/galeries/4650-1658-800x600.jpg",
+        "imageProcess": "big-01"
+      },
+      "type": {
+        "id": 2,
+        "name": "Fitness low cost / club de musculation"
+      },
+      "address": {
+        "street": "10 rue Augustin Fresnel",
+        "zipCode": "37170",
+        "city": "CHAMBRAY LES TOURS",
+        "country": {
+          "code": "FR"
+        }
+      },
+      "location": {
+        "lat": 47.3449366,
+        "lng": 0.7278935
+      },
+      "description": {},
+      "pass": {
+        "key": "1Seance",
+        "shortDescription": "Recevez 1 séance d'essai GRATUITE",
+        "description": "Recevez votre séance d'essai GRATUITE par email !",
+        "free": true
+      },
+      "reviews": {
+        "count": 0,
+        "avg": null
+      },
+      "openingHours": {},
+      "products": [],
+      "distance": 3949,
+      "services": [],
+      "comforts": [],
+      "equipments": [],
+      "activities": [],
+      "access": {}
+    }
+  ]
+}
