@@ -16,6 +16,10 @@ A::testInit();
 require_once dirname(__FILE__) . '/Classes/PHPExcel.php';
 
 
+
+
+
+
 //--------------------------------------------
 // SCRIPT
 //--------------------------------------------
@@ -44,9 +48,6 @@ foreach ($files as $file) {
             'city' => $city,
             'subscribed' => $subscribed,
         ];
-    }
-    if ($c++ >= $max) {
-        break;
     }
 }
 
